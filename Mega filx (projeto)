@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta lang="ptbr">
+    <title> Mega Filmes </title>
+    <meta name="description" content="O streaming onde tem tudo em um só lugar">
+    <meta name="keyword" content="Filmes; assistir filmes; Series; onde assistir filmes?; Melhores series"
+  </head>
+  <body>
+    <h1>Mega Flix<h1>
+    <h2>HOME</h2> 
+    <h3> Continuar assistindo:</h3>
+       <p> Cobra Kai ---- Principe dragão ---- Close ---- Bridgerton ---- Heartstopper ---- Sakura card captors ---- Inuyasha ==>> </p>
+    <h3> Sua Lista:</h3>
+        <p>Cobra Kai ---- Principe dragão ---- Sakura card captors ---- Inuyasha ---- Nanatsu no Taizai ---- bridgerton ---- Heartstopper ==>></p>
+    <h3> Recomendações baseadas no seu historico: </h3>
+    <p> Atack on titans ---- Meu demonio favorito ---- Close ---- Onlyfriends ---- helluvas boss ---- love sea ---- Love in the air ==>> </p><!-- O trabalho termina por aqui, não fiz muita coisa, quis simular a uma pagina inicial de um streaming, peguei como inspiração o aplicativo da netflix. !-->
+  </body>
+</html>
